@@ -1,0 +1,13 @@
+Package: demopack
+Type: Package
+Title: What the package does (short line)
+Version: 1.0
+Date: 2012-10-17
+Author: Zichan, Tianyu,Yixuan
+Maintainer: Zichan <zichan.wang@gmail.com>
+Description: The stock market is a financial game of winners and losers. Using the multivariate statistical methods of principal component analysis (PCA), we aim to find out the problems of Jabre Capital Partners' stock investment portfolio and choice. Since the unsystematic risk is a risk that can be avoided and the market does not compensate for taking such risks, our work focuses on the evaluation of the unsystematic risk of Jabre Capital Partners. 
+
+We divided our work into two stages: first is to analyze the diversification and unsystematic risk of the 21 stocks that company held for entire year, second is to analyze the stock portfolio changes from quarter to quarter in order to observe the diversification improved or not. Since PCA can find structure in the covariance or correlation matrix and uses this structure to locate low-dimensional subspaces containing most of the variation in the data, we can tell whether the stock portfolio is diversified or not, that is whether the unsystematic risk is low or not.
+
+License: What license is it under?
+Packaged: 2012-10-17 14:15:50 UTC; thenaminator
