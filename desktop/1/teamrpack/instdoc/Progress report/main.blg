@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
+A level-1 auxiliary file: A_Introduction.aux
+A level-1 auxiliary file: B_TechnicalBackground.aux
+A level-1 auxiliary file: C_ProblemStatement.aux
+A level-1 auxiliary file: D_Analysis.aux
+A level-1 auxiliary file: E_Results.aux
+A level-1 auxiliary file: F_Conclusion.aux
+The style file: plain.bst
+Database file #1: Biblio.bib
+I was expecting a `,' or a `}'---line 13 of file Biblio.bib
+ :  
+ :  PUBLISHER = {Jabre Capital},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 21 of file Biblio.bib
+ :  
+ :  PUBLISHER = {Inside Monkey},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 31 of file Biblio.bib
+ : %@misc{FY
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 38 of file Biblio.bib
+ : %@misc{IM
+ :          ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 51 of file Biblio.bib
+ :     
+ :     %Note = {\\ \\ A standard textbook on astrodynamics. It provided a reference for orbital mechanics and satellite propagation.}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 60 of file Biblio.bib
+ :   
+ :   %  Note = {\\ \\ Focuses on a few of the most important clustering
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 71 of file Biblio.bib
+ : 
+ : % note = {\\ \\ Outlines a smallest circle algorithm that runs in linear time using recursion.}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 75 of file Biblio.bib
+ : @article{im
+ :            ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 89 of file Biblio.bib
+ : 
+ : % NOTE = {\\ \\ Gives a thorough background to projective geometry and vertical perspective projection. This includes details about calculating projections using homogeneous coordinates and projection matrices.},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+(There were 9 error messages)

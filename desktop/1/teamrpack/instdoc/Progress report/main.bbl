@@ -1,0 +1,43 @@
+\begin{thebibliography}{1}
+
+\bibitem{Afifi}
+Afifi and Abdelmonem.
+\newblock {\em Practical Multivariate Analysis}.
+\newblock Chapman and Hall, 2012.
+
+\bibitem{Carol}
+Carol Alexander and Anca Dimitriu.
+\newblock {S}ources of {O}ver-{P}erfomance in {E}quity {M}arkets:{M}ean
+  {R}eversion, {C}ommon {T}rends, and {Herding}.
+\newblock {\em ISMA Center Discussion Papers in Finance}, 2003.
+
+\bibitem{usc}
+Noel Amenc and Lionel Martellini.
+\newblock Portfolio {O}ptimization and {H}edge {F}und {S}tyle {A}llocation
+  {D}ecisions.
+\newblock {\em USC FBE Working Paper No. 02-4}, 2002.
+
+\bibitem{FY}
+{Finance Yahoo}.
+\newblock {\em Historical Price of Certain Stocks}.
+\newblock $\langle$\texttt{http://finance.yahoo.com}. Accessed November 04,
+  2012.
+
+\bibitem{IM}
+{Inside Money}.
+\newblock {\em Jabre Capital Holdings}.
+\newblock $\langle$\texttt{http://www.insidermonkey.com/hedge-fund/
+  jabre+capital+partners/98/holdings/}. Accessed November 04, 2012.
+
+\bibitem{JC}
+{Jabre Capital}.
+\newblock {\em Investment Strategies}.
+\newblock $\langle$\texttt{http://www.jabcap.com/strategies.html}. Accessed
+  November 04, 2012.
+
+\bibitem{Jolliffe}
+I.~T. Jolliffe.
+\newblock {\em Principal Component Analysis}.
+\newblock Springer, 2002.
+
+\end{thebibliography}
