@@ -1,0 +1,9 @@
+\beamer@endinputifotherversion {3.22pt}
+\beamer@sectionintoc {1}{Background}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Definition}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Types}{4}{0}{1}
+\beamer@sectionintoc {2}{Details}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Mathimatical Explanation}{5}{0}{2}
+\beamer@subsectionintoc {2}{2}{Procedure}{6}{0}{2}
+\beamer@sectionintoc {3}{Applications}{7}{0}{3}
+\beamer@subsectionintoc {3}{1}{Applications}{7}{0}{3}

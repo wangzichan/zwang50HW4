@@ -1,0 +1,30 @@
+Transcript
+Zichan Wang
+
+Multidimensional scaling (MDS) is a set of related statistical techniques often used in information visualization for exploring similarities or dissimilarities in data. MDS is a special case of ordination. An MDS algorithm starts with a matrix of item每item similarities, then assigns a location to each item in N-dimensional space, where N is specified a priori. For sufficiently small N, the resulting locations may be displayed in a graph or 3D visualisation.
+
+MDS algorithms fall into a taxonomy, depending on the meaning of the input matrix:
+* Classical multidimensional scaling
+* Metric multidimensional scaling
+* Non-metric multidimensional scaling
+* Generalized multidimensional scaling
+
+
+he data to be analyzed is a collection of  objects (colors, faces, stocks, . . .) on which a distance function is defined,
+These distances are the entries of the dissimilarity matrix
+
+The goal of MDS is, to find vectors such that
+
+In other words, MDS attempts to find an embedding from the objects into RN such that distances are preserved. If the dimension N is chosen to be 2 or 3, we may plot the vectors xi to obtain a visualization of the similarities between the objects. Note that the vectors xi are not unique.
+
+There are several steps in conducting MDS research:
+* Formulating the problem 每 What variables do you want to compare? How many variables do you want to compare?
+* Obtaining input data 每 Respondents are asked a series of questions. 
+* Running the MDS statistical program 每 Software for running the procedure is available in many software for statistics. 
+* Decide number of dimensions 每The more dimensions, the better the statistical fit, but the more difficult it is to interpret the results.
+* Mapping the results and defining the dimensions 
+* Test the results for reliability and validity 
+* Report the results comprehensively 
+
+
+Applications include scientific visualisation and data mining in fields such as cognitive science, information science, psychophysics, psychometrics, marketing and ecology. New applications arise in the scope of autonomous wireless nodes that populate a space or an area. MDS may apply as a real time enhanced approach to monitoring and managing such populations.
